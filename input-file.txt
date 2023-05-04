@@ -1,0 +1,9 @@
+Add Tom Home 4111111111111111 $1000
+Add Tom Work 4012000033330026 $500
+Add Lisa Work 5454545454545454 $3000
+Add Lisa Gold 4111111111111112 $1000
+Add Lisa Platinum 378282246310005 $2000
+Charge Tom Home $500
+Charge Tom Work $800
+Charge Lisa Work $7
+Credit Lisa Platinum $100
